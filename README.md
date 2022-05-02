@@ -1,4 +1,4 @@
-# T1_Inteligencia_Artificial
+# T1-Inteligencia-Artificial
 
 Trabalho 1 de Inteligência Artificial.
 
